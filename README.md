@@ -98,9 +98,11 @@ publicPath: "/"
 ## Running scripts using npm or yarn
 
 npm start
+
 npm run build
 
 yarn start
+
 yarn build
 
 ## git clone
