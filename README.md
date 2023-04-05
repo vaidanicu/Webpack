@@ -48,6 +48,8 @@ npm i -D html-webpack-plugin
 
 ##### Edit webpack.config.js and add content from next slide
 
+### webpack.config.js
+
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
